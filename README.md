@@ -12,7 +12,7 @@ Happy Learning :)
 
 ## Topics
 ---
-1. Data Structures
+1. <b>Data Structures</b>
 	1. Arrays
 	2. Linked Lists
 	3. Stacks
@@ -26,7 +26,7 @@ Happy Learning :)
 	11. Matrix
 	12. Advanced Data Structures
 
-2. Algorithms
+2. <b>Algorithms</b>
 	1. Searching
 	2. Sorting
 	3. Graph Algorithms
