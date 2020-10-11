@@ -7,7 +7,7 @@
 - Coursera
 - Udemy
 
-## youtube
+## Youtube
 ---
 **Playlists**
 
@@ -16,7 +16,7 @@
  - [Abdul Bari](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
  - [MIT OpenCourseWare](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 
- **long duration Vedios**
+**Long duration videos**
 
  - [freeCodeCamp](https://www.youtube.com/watch?v=RBSGKlAvoiM)
 
