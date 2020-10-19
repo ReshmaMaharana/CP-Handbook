@@ -9,12 +9,18 @@
 
 ## youtube
 ---
+
+**Roadmap**
+
+- [Striver's Roadmap to CP](https://www.youtube.com/watch?v=zZOQVLll9u4&list=PLgUwDviBIf0o1bOOzLwejRTbgaWZLoM8N&ab_channel=takeUforward)
+
 **Playlists**
 
  - [Jenny's lectures](https://www.youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU)
  - [CodeWithHarry](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi)
  - [Abdul Bari](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
  - [MIT OpenCourseWare](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+ - [Love Babbar](https://www.youtube.com/playlist?list=PL4PCksYQGLJOcaPLgeMFaxaHigPFjBuTG)
 
  **long duration Vedios**
 
