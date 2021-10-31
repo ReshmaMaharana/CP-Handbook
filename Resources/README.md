@@ -7,7 +7,7 @@
 - Coursera
 - Udemy
 
-## youtube
+## Youtube
 ---
 
 **Roadmap**
@@ -22,7 +22,7 @@
  - [MIT OpenCourseWare](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
  - [Love Babbar](https://www.youtube.com/playlist?list=PL4PCksYQGLJOcaPLgeMFaxaHigPFjBuTG)
 
- **long duration Vedios**
+**Long duration videos**
 
  - [freeCodeCamp](https://www.youtube.com/watch?v=RBSGKlAvoiM)
 
